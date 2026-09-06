@@ -10,7 +10,7 @@ I am currently a senior at Belmont Abbey College, competing and captain on the t
 • GitHub  
 
 #### 🔆 **Current Goals**  
-~ I want to find an internship in either web design or frontend developing  
+~ I want to find an internship in either web design or frontend developing 
 ~ Gain confidence in my work  
 ~ Build a website  
 
