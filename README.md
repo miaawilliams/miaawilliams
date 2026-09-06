@@ -5,7 +5,7 @@ I am currently a senior at Belmont Abbey College, competing and captain on the t
 #### 🔆 **Technical Skills (still learning)**  
 • Python  
 • HTML  
-• SQLite and databases  
+• SQLite and databases 
 • Java   
 • GitHub  
 
