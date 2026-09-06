@@ -6,7 +6,7 @@ I am currently a senior at Belmont Abbey College, competing and captain on the t
 • Python  
 • HTML  
 • SQLite and databases  
-• Java  
+• Java   
 • GitHub  
 
 #### 🔆 **Current Goals**  
