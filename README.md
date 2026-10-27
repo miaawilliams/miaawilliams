@@ -7,7 +7,8 @@ I am currently a senior at Belmont Abbey College, competing and captain on the t
 • HTML  
 • SQLite and databases 
 • Java   
-• GitHub  
+• GitHub
+• React
 
 #### 🔆 **Current Goals**  
 ~ I want to find an internship in either web design or frontend developing 
@@ -21,7 +22,7 @@ I am currently a senior at Belmont Abbey College, competing and captain on the t
 #### 🔆 A Little More About Me!
 ▫️ I LOVE animals and own an iguana (Rango), sulcata tortoise (Franklin), umbrella cockatoo (Snow), dog (Maki), and a pink snake named Piglet  
 ▫️ I'm currently learning French  
-▫️ My family and I were stationed in Okinawa, Japan for four years when I was a kid
+▫️ I've been to Japan, South Korea, Aruba, and China!
 
 
 
